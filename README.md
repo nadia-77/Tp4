@@ -5,6 +5,7 @@ l'execution de l'Exercie 2:
 <img width="844" height="646" alt="tp4Ex2" src="https://github.com/user-attachments/assets/eff2fa4a-6774-48fc-9f28-374da1843115" />
 
 l'execution de l'Exercie 3 :
+
 <img width="737" height="629" alt="tp4Ex3" src="https://github.com/user-attachments/assets/a2467ff2-abb0-4830-b0e6-49aad635c369" />
 
 
